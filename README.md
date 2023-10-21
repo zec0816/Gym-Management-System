@@ -25,7 +25,7 @@ Admin features:
 Gym Management System Command Line Interface (CLI) Program was developed using Python, a popular high-level programming language. The program’s execution entailed a thorough examination of the requirements and design factors to make sure the solution satiated the needs of gym users and managers. With a text-based interface and simple menu selections, the CLI application was designed to be user friendly and easy to navigate.
 
 ## Future Roadmap
-1. Mobile Access: Making the system accessible from mobile devices and making it mobilefriendly by creating a mobile app or mobile-friendly version of the program.
+1. Mobile Access: Making the system accessible from mobile devices and making it mobile friendly by creating a mobile app or mobile-friendly version of the program.
 2. Automation: Reducing effort and boosting productivity by automating repetitive operations like billing.
 3. Database: A database can be added to store users’ information. This allows gym managers to handle users’ data efficiently.
 4. Integration with Other Systems: The program can be integrated with other gym-related systems, such workout equipment, to offer a more smooth and complete gym management solution.
