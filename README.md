@@ -2,7 +2,7 @@
 A simple gym management system created using command line interface
 
 ## Introduction
-As gym business expands quickly, gym managers and owners will inevitably meet rising needs for efficient and effective management solutions. The Gym Management System Command Line Interface (CLI) Program offers a textbased interface for controlling gym operations and member information. 
+As gym business expands quickly, gym managers and owners will inevitably meet rising needs for efficient and effective management solutions. The Gym Management System Command Line Interface (CLI) Program offers a text-based interface for controlling gym operations and member information. 
 
 ## Features
 User features:
